@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9cd13c6b53388340a8f42c783ecc456, type: 3}
+  m_Name: Home
+  m_EditorClassIdentifier: 
+  locationName: Home
+  locationDesc: (0, 0)
+  north: {fileID: 11400000, guid: 3a82e4f1aac20eb4b871fbbec266a22c, type: 2}
+  south: {fileID: 11400000, guid: 30623a4b828108944b9f5c309b322862, type: 2}
+  west: {fileID: 11400000, guid: 3294a85a87c90b34a957c0fb9953fb26, type: 2}
+  east: {fileID: 11400000, guid: 901fdb05d49087748af17f4c64a59c3a, type: 2}
+  northeast: {fileID: 11400000, guid: a9cbfa4639e7e9747b6a1c2ddcb107f6, type: 2}
+  northwest: {fileID: 11400000, guid: 8ff58cbf2df408843b77f2c14121b1a6, type: 2}
+  southeast: {fileID: 11400000, guid: 822c4b1cbff04de4b81c4a0468a47438, type: 2}
+  southwest: {fileID: 11400000, guid: 94da0534c706f444e9943096945fdbeb, type: 2}
